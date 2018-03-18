@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world!
 Practicing cos I'm a newbie
 
 Hello readers, I started programming at around sophomore year at the age of 15 and dabble a little bit of C# programming, Unity platforming, and digital art.
